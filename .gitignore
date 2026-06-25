@@ -1,0 +1,13 @@
+.cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+
+training/ratings.db
+training/po_training_data.jsonl
+config.yaml
